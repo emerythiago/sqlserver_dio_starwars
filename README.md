@@ -1,6 +1,6 @@
 # sql_server_dio_starwars
 
-Gerenciados de espaçonaves do star wars(scrips de criação das tabelas que compõe o banco de dados;
+Gerenciados de espaçonaves do star wars(scripts de criação das tabelas que compõe o banco de dados;
 
 
 
